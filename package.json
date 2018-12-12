@@ -1,0 +1,20 @@
+{
+  "name": "expand-jsonfeed",
+  "version": "1.0.0",
+  "description": "Expand and normalize jsonfeed fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcomnes/expand-jsonfeed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcomnes/expand-jsonfeed/issues"
+  },
+  "homepage": "https://github.com/bcomnes/expand-jsonfeed#readme"
+}
